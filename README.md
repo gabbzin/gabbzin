@@ -1,15 +1,10 @@
-## 👋 Olá, eu sou o Gabriel Pimentel
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
 
-<div>
-<a href="#">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gabbzin&hide=issues&show_icons=true&theme=dark">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbzin&layout=compact&langs_count=16&theme=dark">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!)](https://git.io/typing-svg)
 
-<div>
-  <a href="https://www.instagram.com/gabb.zin_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<div align="center">
+  <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=gabbzin&hide=issues&show_icons=true&theme=outrun">
+  <img height="200px" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbzin&layout=compact&langs_count=16&theme=outrun">
 </div>
 
 <picture>
@@ -17,3 +12,25 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabbzin/gabbzin/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabbzin/gabbzin/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div>
+  <a href="https://www.instagram.com/gabb.zin_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+<h3 align="left">Tecnologias que mais uso:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,java,github" />
+  </a>
+</p>
+
+<h3 align="left">Tecnologias que tenho algum conhecimento:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git" />
+  </a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
