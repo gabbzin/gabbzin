@@ -14,23 +14,16 @@
 </picture>
 
 <div>
-  <h3 align="left">Redes Sociais</h3>
+  <h3 align="left">Redes Sociais:</h3>
   <a href="https://www.instagram.com/gabb.zin_/" aling="left">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
-<h3 align="left">Tecnologias que mais uso:</h3>
+<h3 align="left">Tecnologias que uso ou já usei:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,github,vscode" />
-  </a>
-</p>
-
-<h3 align="left">Tecnologias que tenho algum conhecimento:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,github,vscode,html,css,js,cpp,git,react&perline=5" />
   </a>
 </p>
 
