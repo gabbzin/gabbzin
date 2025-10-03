@@ -23,7 +23,7 @@
 <h3 align="left">Tecnologias que uso ou já usei:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,github,vscode,html,css,js,cpp,git,react,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,git,github,vscode,html,css,js,ts,docker,react,linux,postgresql&perline=7" />
   </a>
 </p>
 
