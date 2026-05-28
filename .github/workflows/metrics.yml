@@ -1,0 +1,37 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: gabbzin
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          template: classic
+          base: header, activity, community, repositories
+
+          config_timezone: America/Sao_Paulo
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+
+          plugin_traffic: yes
+
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          filename: github-metrics.svg
