@@ -35,6 +35,20 @@
 ## Métricas
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 February 2026 - To: 28 May 2026
+
+Total Time: 158 hrs 23 mins
+
+TypeScript   128 hrs 32 mins       ████████████████████░░░░░   80.24 %
+Prisma       8 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Markdown     4 hrs 59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Bash         2 hrs 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TSConfig     1 hr 54 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other        1 hr 47 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
