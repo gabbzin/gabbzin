@@ -51,11 +51,9 @@ Other        1 hr 47 mins          ▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
----
+<!--## 🧮 Métricas-->
 
-## 🧮 Métricas
-
-<img src="./github-metrics.svg" />
+<!-- <img src="./github-metrics.svg" /> -->
 
 ---
 
