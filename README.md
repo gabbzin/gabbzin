@@ -55,7 +55,7 @@ Other        1 hr 47 mins          ▒░░░░░░░░░░░░░░
 
 ## 🧮 Métricas
 
-<img src="https://github.com/gabbzin/gabbzin/blob/main/github-metrics.svg" />
+<img src="./github-metrics.svg" />
 
 ---
 
