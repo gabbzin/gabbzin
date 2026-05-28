@@ -32,10 +32,16 @@
 
 ---
 
-## Métricas
+## 📟 Wakatime Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
+## 🧮 Métricas
+
+<img src="https://github.com/gabbzin/gabbzin/blob/main/github-metrics.svg" />
 
 ---
 
