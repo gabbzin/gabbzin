@@ -17,7 +17,6 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabbzin&show_icons=true&theme=outrun&hide_border=true"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=gabbzin&theme=outrun&hide_border=true"/>
 </div>
 
@@ -30,6 +29,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabbzin/gabbzin/output/github-contribution-grid-snake.svg">
   <img width="100%" src="https://raw.githubusercontent.com/gabbzin/gabbzin/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+## Métricas
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
