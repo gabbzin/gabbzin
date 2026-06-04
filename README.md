@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 02 June 2026
+From: 10 February 2026 - To: 03 June 2026
 
-Total Time: 160 hrs
+Total Time: 160 hrs 35 mins
 
-TypeScript   129 hrs 6 mins        ████████████████████░░░░░   79.79 %
-Prisma       8 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Markdown     4 hrs 59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-PHP          2 hrs 37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Bash         2 hrs 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TypeScript   129 hrs 6 mins        ████████████████████░░░░░   79.50 %
+Prisma       8 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Markdown     4 hrs 59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+PHP          2 hrs 37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Bash         2 hrs 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 TSConfig     1 hr 54 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 Other        1 hr 47 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
