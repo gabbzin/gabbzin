@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 22 June 2026
+From: 10 February 2026 - To: 23 June 2026
 
 Total Time: 167 hrs 42 mins
 
 TypeScript     132 hrs 20 mins       ███████████████████▓░░░░░   78.07 %
-Prisma         8 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Prisma         8 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 Markdown       5 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 PHP            3 hrs 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 Bash           2 hrs 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
