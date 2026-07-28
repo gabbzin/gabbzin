@@ -4,7 +4,7 @@
 
 <p align="center">
   💻 Estudante de Engenharia de Software <br/>
-  🚀 Focado em Back-end, APIs e desenvolvimento Full Stack <br/>
+  🚀 Focado em desenvolvimento Full Stack com React e Nest <br/>
   ⚡ Sempre buscando evoluir e construir projetos reais
 </p>
 
