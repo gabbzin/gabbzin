@@ -37,15 +37,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 15 October 2026
+From: 10 February 2026 - To: 16 October 2026
 
 Total Time: 316 hrs 30 mins
 
-TypeScript        222 hrs 15 mins       █████████████████░░░░░░░░   67.68 %
-Markdown          16 hrs 1 min          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Dart              15 hrs 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Prisma            12 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Other             11 hrs 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+TypeScript        222 hrs 15 mins       █████████████████░░░░░░░░   67.53 %
+Markdown          16 hrs 1 min          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Dart              15 hrs 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Prisma            12 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other             12 hrs 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
