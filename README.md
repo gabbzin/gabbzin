@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 25 October 2026
+From: 10 February 2026 - To: 26 October 2026
 
 Total Time: 316 hrs 33 mins
 
-TypeScript        222 hrs 16 mins       ████████████████▓░░░░░░░░   66.82 %
-Other             16 hrs 4 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+TypeScript        222 hrs 16 mins       ████████████████▓░░░░░░░░   66.73 %
+Other             16 hrs 30 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 
 <!--END_SECTION:waka-->
