@@ -22,6 +22,22 @@
 
 ---
 
+## ⚡ Dashboard
+
+<div align="center">
+  <img width="100%" alt="Dashboard de hoje" src="https://raw.githubusercontent.com/gabbzin/gabbzin/dashboard/dashboard-today.svg" />
+</div>
+
+<details>
+  <summary><b>📅 Trocar para semanal</b></summary>
+  <br/>
+  <div align="center">
+    <img width="100%" alt="Dashboard semanal" src="https://raw.githubusercontent.com/gabbzin/gabbzin/dashboard/dashboard-week.svg" />
+  </div>
+</details>
+
+---
+
 ## 🐍 Contribuições
 
 <picture>

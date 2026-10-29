@@ -1,0 +1,44 @@
+name: Dashboard
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/dashboard.ts
+      - .github/workflows/dashboard.yml
+
+jobs:
+  dashboard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      # Node 24 roda TypeScript direto (type stripping), sem build.
+      - name: Generate dashboard
+        run: node scripts/dashboard.ts
+        env:
+          # DASHBOARD_TOKEN (PAT com read:user + repo) inclui repos privados;
+          # sem ele, o GITHUB_TOKEN só enxerga contribuições públicas.
+          GITHUB_TOKEN: ${{ secrets.DASHBOARD_TOKEN || secrets.GITHUB_TOKEN }}
+          DASHBOARD_USER: ${{ github.repository_owner }}
+          DASHBOARD_OUT: dist
+
+      - name: Push SVGs to the dashboard branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: dashboard
+          build_dir: dist
+          commit_message: "Update dashboard [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
